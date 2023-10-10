@@ -30,7 +30,7 @@ const Blog = (props) => {
           </div>
         </div>
         <Button onClick={() => navigate('/blog')} level={'secondary'}>
-          back to blog
+        back to blog
         </Button>
       </div>
     </div>
